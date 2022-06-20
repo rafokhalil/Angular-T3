@@ -1,0 +1,10 @@
+.bg-grey {
+  background-color: lightgreen;
+}
+.bd-green {
+  border: 3px solid rgba(0, 128, 0, 0.493);
+}
+.table {
+  background-color: rgb(188, 234, 250);
+  border-radius: 15px;
+}
